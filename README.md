@@ -31,6 +31,14 @@ The project utilizes the following Python and NLP technologies:
 
 These technologies and libraries collectively contribute to the functionality of the system, allowing it to extract text from images and PDFs and perform NLP-based keyword ranking. Make sure to install and configure these libraries as part of your project setup.
 
-###Project Demo
-![alt text](/Users/raghul_raj_kumarr/Desktop/demo)
+## Project Screenshots 
+![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image1.png)
+### File Selection
+![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image2.png)
+### Input File
+![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/images.png)
+### Final Output
+![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image3.png)
+![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image4.png)
+
 
