@@ -1,0 +1,7 @@
+fitz
+Pillow
+pytesseract
+tesseract
+PyMuPDF
+Flask
+spacy

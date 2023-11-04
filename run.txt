@@ -1,0 +1,12 @@
+# Create a virtual environment
+python -m venv myenv
+
+# Activate the virtual environment
+source myenv/bin/activate  # On Linux/macOS
+myenv\Scripts\activate     # On Windows
+
+# Install requirements file
+pip install -r requirements.txt
+
+pip install spacy
+python -m spacy download en_core_web_sm
