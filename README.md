@@ -31,3 +31,6 @@ The project utilizes the following Python and NLP technologies:
 
 These technologies and libraries collectively contribute to the functionality of the system, allowing it to extract text from images and PDFs and perform NLP-based keyword ranking. Make sure to install and configure these libraries as part of your project setup.
 
+###Project Demo
+![alt text](/Users/raghul_raj_kumarr/Desktop/demo)
+
