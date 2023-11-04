@@ -46,7 +46,8 @@ These technologies and libraries collectively contribute to the functionality of
 ![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image4.png)
 
 ### Project Demo Video
-[![Watch the video](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/textgenerator.mp4)]
+
+[![Watch the video](https://imgs.search.brave.com/p-UJhw69CLj3J67Oi0lC8GmsF9CynaAxVRmBAFxRRjo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/dXNlYXN0MS5rYXB3/aW5nLmNvbS9zdGF0/aWMveXQtZm9vdGVy/LWxpZ2h0LndlYnA)](https://www.youtube.com/watch?v=DAv2Svf44yY)
 
 
 
