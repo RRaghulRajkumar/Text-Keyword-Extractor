@@ -33,12 +33,20 @@ These technologies and libraries collectively contribute to the functionality of
 
 ## Project Screenshots 
 ![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image1.png)
+
 ### File Selection
 ![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image2.png)
+
 ### Input File
 ![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/images.png)
+
 ### Final Output
 ![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image3.png)
+
 ![alt text](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/image4.png)
+
+### Project Demo Video
+[![Watch the video](https://github.com/RRaghulRajkumar/Text-Keyword-Extractor/blob/master/demo/textgenerator.mp4)]
+
 
 
